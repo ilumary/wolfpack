@@ -1,0 +1,15 @@
+# macOS filesystem
+.DS_STORE
+
+# Visual Studio Code
+.vscode
+
+# Environment
+.env
+.cache/
+
+# Language server
+compile_commands.json
+
+# Object files
+.o
